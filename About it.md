@@ -15,4 +15,4 @@ Compilation and Execution
 
 Compile the source code using your preferred compiler:
 ```bash
-   g++ main.cpp -o subnet_calculator
+   g++ IPv4SubnetConverter.cpp -o subnet_converter
