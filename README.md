@@ -1,4 +1,4 @@
-# IPv4 Subnet Calculator
+# IPv4 Subnet Conversion
 
 A C++ command-line tool that analyzes IPv4 addresses, determines network classes, converts IP/subnet masks to binary, and calculates host capacity.
 
